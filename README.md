@@ -4,7 +4,6 @@
 
 A comprehensive Python command-line tool to inspect, enrich, and visualize public data associated with a given phone number. This tool provides detailed insights from number formatting and carrier information to geographical and world context data.
 
-![Screenshot of the script running](https://i.imgur.com/KmpdJ2P.png)
 
 ## Features
 
