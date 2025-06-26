@@ -33,10 +33,9 @@ All required libraries are listed in the `requirements.txt` file.
 
 1.  **Clone the repository:**
     ```bash
-    git clone [https://github.com/YOUR_USERNAME/PhoneNumber-Global-Inspector.git](https://github.com/YOUR_USERNAME/PhoneNumber-Global-Inspector.git)
+    git clone https://github.com/Mystery-World3/PhoneNumber-Global-Inspector.git
     cd PhoneNumber-Global-Inspector
     ```
-    *(Replace `YOUR_USERNAME` with your GitHub username)*
 
 2.  **Create and activate a virtual environment:**
     ```bash
